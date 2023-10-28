@@ -1,0 +1,17 @@
+a.active {
+  border-bottom: 0.2rem solid #0785af;
+  color: #0785af;
+}
+a {
+  margin: 0rem 0.8rem;
+}
+
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #333;
+}
